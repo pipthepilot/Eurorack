@@ -7,6 +7,9 @@ It has an analogue oscillator based on the LM393 OpAmp and utilises a reference 
 
 It also has multiple wave converter circuits, converting a SAW wave to SIN, TRI and pulse width modulated SQR wave. Additionally, it creates a modulated wave combining the SIN with SAW.   
 
+## Bill of Materials
+https://docs.google.com/spreadsheets/d/1CUKYuBQ1fjwicACucSL0GTL7NWywC4YPmgfn8Z_7cBA/edit?usp=sharing
+
 ## Panel Design
 
 <img src="https://github.com/pipthepilot/Eurorack/blob/main/VCO/MODULE%20-%20NS%20VCO.png" width="200">
