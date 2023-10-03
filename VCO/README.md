@@ -9,3 +9,4 @@ It also has multiple wave converter circuits, converting a SAW wave to SIN, TRI 
 
 ## Panel Design
 
+![VCO Panel](https://github.com/pipthepilot/Eurorack/blob/main/VCO/MODULE%20-%20NS%20VCO.png)
