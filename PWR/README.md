@@ -13,3 +13,6 @@ This board also has a (center negative) 2.1mm x 5.5mm DC power connector supplyi
 • Polarity protection
 • AC ripple filtration
 • LED indicator lights showing status of all four power rails (-12V, +12V, +9V, +5V)
+
+## Bill of Materials
+https://docs.google.com/spreadsheets/d/1q3VDQ06c6Mp9wCwe6frDBpupJiTyyJs6fLxfIwbIJoI/edit?usp=sharing
