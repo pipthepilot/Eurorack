@@ -16,3 +16,6 @@ This board also has a (center negative) 2.1mm x 5.5mm DC power connector supplyi
 
 ## Bill of Materials
 https://docs.google.com/spreadsheets/d/1q3VDQ06c6Mp9wCwe6frDBpupJiTyyJs6fLxfIwbIJoI/edit?usp=sharing
+
+## PCB Render
+<img src="https://raw.githubusercontent.com/pipthepilot/Eurorack/main/PWR/3D%20-%20SYNTH_PWR_MKI.png" alt="pcb_3d_render" width="400">
